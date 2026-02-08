@@ -1,5 +1,5 @@
-# ESUM-2023-2024
-Repository for ESUM (Elementy Statystycznego Uczenia Maszynowego) course at AGH University
+# ESUM_2023_2024
+Repository for ESUM (Elementy Statystycznego Uczenia Maszynowego - Elements of Statistical Machine Learning) course at AGH University
 
 Każdy z katalogów **lab*i*, i=1,2,...,7** zawiera rozwiązania poszczególnych laboratoriów.
 Składają się na nie 3 pliki:
